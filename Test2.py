@@ -31,12 +31,7 @@ for t,marker,c in zip(xrange(3),">ox","rgb"):
 plt.show()
 
 
-# In[23]:
 
-plength = features[:,2]
-len(plength)
-is_setosa = (labels == 'setosa')
-max_setosa = 
 
 
 # In[ ]:
